@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "hanser / homePage"
+title                    : "Runhan Jiang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Runhan Jiang"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "a first year graduate student from Sun yat-sen University"
+url                      : https://Dingzhen778.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Runhan Jiang"
+  name             : "Runhan Jiang(江润汉)"
   avatar           : "jrh.png"
   bio              : "Thank you for visiting."
   location         : "China/Guangdong"
